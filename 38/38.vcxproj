@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="38.cpp" />
     <ClCompile Include="camera.cpp" />
     <ClCompile Include="glut_backend.cpp" />
     <ClCompile Include="main.cpp" />
